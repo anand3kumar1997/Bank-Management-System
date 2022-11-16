@@ -4,10 +4,10 @@ It is a basic Bank Management System project where the users can perform several
 
 ## Key Features for the Bank's customers
 
-1. Open Account (Data gets saved in mysql database)
+1. Open new Account (Data gets saved in mysql database)
 2. Deposit Amount
 3. Withdraw Amount
-4. Balance Enquierry
+4. Balance Enquiry
 5. Display Customer details
 6. Close an Account
 
