@@ -1,7 +1,6 @@
 # Bank-Management-System
 
-It is a basic Bank Management System project where the users can perform several bank operations based on their needs. 
-It performs basic CRUD (Create, Read, Update, Delete) operations.
+It is a basic Bank Management System project where the users can perform several bank operations based on their needs. This program performs basic CRUD (Create, Read, Update, Delete) operations.
 
 ## Key features provided to the Bank's customers
 
