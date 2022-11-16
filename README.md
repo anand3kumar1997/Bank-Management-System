@@ -2,7 +2,7 @@
 
 It is a basic Bank Management System project where the users can perform several bank operation based on there needs.
 
-## Key Features for Bank's customer
+## Key Features for the Bank's customers
 
 1. Open Account (Data gets saved in mysql database)
 2. Deposit Amount
